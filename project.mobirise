@@ -46,14 +46,14 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": false,
-    "robotsSwitcher": true,
-    "sitemapSwitcher": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://business.gidzap.ru",
+    "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "Готовый бизнес автозапчастей. Открыть готовый бизнес по продаже автозапчастей.",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "google-analytics": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
